@@ -16,9 +16,7 @@ export enum ScreenName {
   LANGUAGE = 'LANGUAGE',
   SYMPTOMS = 'SYMPTOMS',
   PROFILE = 'PROFILE',
-  MED_GALLERY = 'MED_GALLERY',
-  LOCATION = 'LOCATION',
-  CAMERA = 'CAMERA'
+  MED_GALLERY = 'MED_GALLERY'
 }
 
 export enum Gender {
