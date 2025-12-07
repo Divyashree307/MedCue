@@ -1,0 +1,8 @@
+{
+  "name": "medcue deploy",
+  "description": "An elderly-friendly health management application featuring medication tracking, routine management, appointment scheduling, and AI-powered symptom analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
